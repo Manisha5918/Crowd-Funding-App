@@ -34,3 +34,5 @@ The project demonstrates Object-Oriented Programming (OOP) concepts such as:
 - VIP reward calculation
 - Wallet balance updates
 - Campaign settlement status
+
+Updated README for Pull Shark achievement test.
